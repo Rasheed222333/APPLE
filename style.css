@@ -1,0 +1,35 @@
+*{
+    color: black;
+}
+#logo{
+    height: 40px;
+    vertical-align: middle;
+    border-style: none;
+    width: 50px;
+}
+navbar-brand.img {
+    vertical-align: middle;
+    border-style: none;
+    height: 50px;
+    width: 50px;
+}
+.navbar-nav{
+    padding: 30px;
+}
+div.container{
+    color: black;
+}
+.img1{
+    height: 420px;
+    width: 340px;
+}
+#logo2{
+    height: 40px;
+    vertical-align: middle;
+    border-style: none;
+    width: 50px;
+}
+.foot{
+   
+    text-align: center;
+}
